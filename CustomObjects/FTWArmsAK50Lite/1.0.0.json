@@ -9,7 +9,7 @@
     "DownloadUrl": "https://bonetome.com/download.php?file=MDMwNmU1MmIyOGQwYjhmNCsrMTY3Mg==",
     "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
     "Dependencies": {
-      "FTW Arms 50 Beowulf": "*"
+      "FTWArms50Beowulf": "*"
     },
     "IsBeta": false
 }
