@@ -1,0 +1,15 @@
+{
+    "Name": "FTW Arms AK-50 Lite",
+    "VersionNumber": "1.0.0",
+    "Description": "Time to put some large holes in some sosigs with the first gun chambered in 50 Beowulf.",
+    "ShortDescription": "Time to put some large holes in some sosigs with the first gun chambered in 50 Beowulf.",
+    "Authors": ["Andrew_FTW"],
+    "IconUrl": "https://i.imgur.com/8K2idlQ.png",
+    "SourceUrl": "https://bonetome.com/h3vr/weapons/491/",
+    "DownloadUrl": "https://bonetome.com/download.php?file=MDMwNmU1MmIyOGQwYjhmNCsrMTY3Mg==",
+    "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
+    "Dependencies": {
+      "FTW Arms 50 Beowulf": "*"
+    },
+    "IsBeta": false
+}
