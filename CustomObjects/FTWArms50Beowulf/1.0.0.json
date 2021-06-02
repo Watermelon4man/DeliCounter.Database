@@ -1,0 +1,15 @@
+{
+    "Name": "FTW Arms 50 Beowulf",
+    "VersionNumber": "1.0.0",
+    "Description": "Time to get your meaty hands all over the most heavy, short range, and powerful rifle round there is: 50 Beowulf. Included are four unique cartridges, all with their advantages. The rounds are as follows: FMJ, JHP, SLAP, and Canister",
+    "ShortDescription": "Time to get your meaty hands all over the most heavy, short range, and powerful rifle round there is.",
+    "Authors": ["Andrew_FTW"],
+    "IconUrl": "https://i.imgur.com/Vj2z5GG.jpeg",
+    "SourceUrl": "https://bonetome.com/h3vr/weapons/492/",
+    "DownloadUrl": "https://bonetome.com/download.php?file=MjU1N2JhZGNkYjhkYTA5YysrMTY3Mw==",
+    "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
+    "Dependencies": {
+      "Deli": "*"
+    },
+    "IsBeta": false
+}   
