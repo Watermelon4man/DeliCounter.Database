@@ -12,8 +12,6 @@
   "Dependencies": {
     "Deli": "^0.3.0"
   },
-  "InstallationSteps": [
-    "move Deli/mods"
-  ],
+  "InstallationSteps": [ "move deli\\mods\\Better1911.deli" ],
   "IsBeta": false
 }
