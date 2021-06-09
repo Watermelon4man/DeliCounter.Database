@@ -1,0 +1,16 @@
+
+{
+  "Name": "MuzzSil",
+  "VersionNumber": "1.0.3",
+  "Description": "A collection of pages of muzzles, muzzle adapters, flash hiders, suppressors, and anything of that nature. Literally buckets of devices!",
+  "ShortDescription": "A large collection of muzzles and suppressors.",
+  "Authors": ["gamernayr"],
+  "IconUrl": "https://avatars.githubusercontent.com/u/69859977?v=4",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/424/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZDY5NDIxNjMwZWE4OWY4MisyNjU0KzE1NDk=",
+  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
+  "Dependencies": {
+    "Deli": "^0.3.2",
+    "OtherLoader": "^0.2.0"
+  }
+}
