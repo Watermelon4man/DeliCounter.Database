@@ -1,0 +1,16 @@
+
+{
+  "Name": "ModulSVD",
+  "VersionNumber": "1.0.4",
+  "Description": "Adds a modular SVD to the game. Includes pistol grip, stock, and dustcover support for other modul mods.",
+  "ShortDescription": "Modular SVD",
+  "Authors": ["gamernayr"],
+  "IconUrl": "https://avatars.githubusercontent.com/u/69859977?v=4",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/429/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MGFmODgwOWE0YTYxMjVlZCsyNjU0KzE1NTU=",
+  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
+  "Dependencies": {
+    "Deli": "^0.3.2",
+    "OtherLoader": "^0.2.0"
+  }
+}
