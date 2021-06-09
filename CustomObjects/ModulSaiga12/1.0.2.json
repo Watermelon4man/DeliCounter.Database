@@ -1,0 +1,15 @@
+{
+  "Name": "ModulSaiga12",
+  "VersionNumber": "1.0.2",
+  "Description": "Adds a modular Saiga12 to the game. Includes pistol grip, stock, and dustcover support for other modul mods.",
+  "ShortDescription": "Modular Saiga 12",
+  "Authors": ["gamernayr"],
+  "IconUrl": "https://avatars.githubusercontent.com/u/69859977?v=4",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/482/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZjAxOGQ1MzgyZjk5YjJkYysyNjU0KzE2NTU=",
+  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
+  "Dependencies": {
+    "Deli": "^0.3.2",
+    "OtherLoader": "^0.2.0"
+  }
+}
