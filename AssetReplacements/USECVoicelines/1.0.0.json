@@ -1,0 +1,16 @@
+{
+  "Name": "USEC Voice Lines",
+  "VersionNumber": "1.0.0",
+  "Description": "It's USEC PMC voicelines for Sosigs\nWOW\nAMAZING",
+  "ShortDescription": "USEC PMC voicelines for Sosigs",
+  "Authors": ["Arpy"],
+  "IconUrl": "https://i.imgur.com/8MLvATy.jpeg",
+  "SourceUrl": "https://bonetome.com/h3vr/mods/508/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZTljODVhNmE1MzMwMDA5ZSsyNjU0KzE3MjE=",
+  "InstallationSteps": ["extract $GAME_DIR/Mods"],
+  "Dependencies": {
+    "Sideloader": "~0.3.3"
+  },
+  "Tags": ["SosigVoices"],
+  "IncompatibleTags": ["SosigVoices"]
+}
