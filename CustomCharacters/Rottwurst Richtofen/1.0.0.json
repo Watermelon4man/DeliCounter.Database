@@ -1,0 +1,15 @@
+{
+  "VersionNumber": "1.0.0",
+  "Name": "Rottwurst Richtofen",
+  "Description": "A special zombie themed character based on Zombiehunter Zeke. This time around, all sosigs have been replaced with zosigs, meaning you'll find no living meat here!",
+  "ShortDescription": "Zosig only TnH character.",
+  "IconUrl": "https://i.imgur.com/TFRplRq.png",
+  "SourceUrl": "https://bonetome.com/h3vr/characters/505/",
+  "Authors": ["gamernayr"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=NzRmNzc0MmU1ZjIwMGMxZSsyNjU0KzE3MTY=",
+  "Dependencies": {
+    "TNHTweaker": "~1.6.0"
+  },
+  "InstallationSteps": ["extract $GAME_DIR/Deli/mods/"],
+  "IsBeta": false
+}
