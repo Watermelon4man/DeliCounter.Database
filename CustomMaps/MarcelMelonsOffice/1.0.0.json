@@ -1,0 +1,15 @@
+{
+  "VersionNumber": "1.0.0",
+  "Name": "Melon Office",
+  "Description": "A sandbox map for all your target shooting needs, andrews custom targets is highly recommended!",
+  "ShortDescription": "Sandbox for custom targets",
+  "IconUrl": "https://i.imgur.com/YUUgS5O.png",
+  "SourceUrl": "https://bonetome.com/h3vr/map/477/",
+  "Authors": ["another_marcel"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=NjMyN2RiYmY1ZDU5NThlOSsxODU0KzE2NDg=",
+  "Dependencies": {
+    "WurstMod": "^2.0.3"
+  },
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
+  "IsBeta": false
+}
