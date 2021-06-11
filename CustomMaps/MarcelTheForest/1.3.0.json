@@ -1,0 +1,15 @@
+{
+  "VersionNumber": "1.3.0",
+  "Name": "5801 - The Forest",
+  "Description": "A spooky tnh map set in a dark forest and an abandoned asylum. I recommend playing it with Rottwiener Richtofen! Also includes the sandbox",
+  "ShortDescription": "TNH spooky map",
+  "IconUrl": "https://i.imgur.com/EbIhrb2.png",
+  "SourceUrl": "https://bonetome.com/h3vr/map/503/",
+  "Authors": ["another_marcel"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZGYyNGFjYmMxOWU2Yjc2YysxODU0KzE3MTM=",
+  "Dependencies": {
+    "WurstMod": "^2.1.1"
+  },
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
+  "IsBeta": false
+}
