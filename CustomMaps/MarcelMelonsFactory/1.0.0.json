@@ -1,0 +1,16 @@
+  
+{
+  "VersionNumber": "1.0.0",
+  "Name": "Melons Factory",
+  "Description": "An empty sandbox map so you can set up Andrews targets and practice your shooting skills!",
+  "ShortDescription": "Sanbox for custom targets",
+  "IconUrl": "https://i.imgur.com/9dg9zia.png",
+  "SourceUrl": "https://bonetome.com/h3vr/map/490/",
+  "Authors": ["another_marcel"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=MGRkNTEwYzc3Mzc1MDRmNysxODU0KzE2Njg=",
+  "Dependencies": {
+    "WurstMod": "^2.0.3"
+  },
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
+  "IsBeta": false
+}
