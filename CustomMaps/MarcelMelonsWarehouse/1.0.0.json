@@ -1,0 +1,15 @@
+{
+  "VersionNumber": "1.0.0",
+  "Name": "Melons Warehouse",
+  "Description": "This is a large empty sandbox map so you can set up some of andrews targets and practice your shooting in your own scenarios!",
+  "ShortDescription": "Sandbox for custom targets",
+  "IconUrl": "https://i.imgur.com/8R4Pkzh.png",
+  "SourceUrl": "https://bonetome.com/h3vr/map/466/",
+  "Authors": ["another_marcel"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=MTFlNzk3NTczZWJlODk3MysxODU0KzE2MzM=",
+  "Dependencies": {
+    "WurstMod": "^2.0.3"
+  },
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
+  "IsBeta": false
+}
