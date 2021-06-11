@@ -1,0 +1,15 @@
+{
+  "VersionNumber": "1.2.0",
+  "Name": "Modern Mansion",
+  "Description": "This mod contains the TnH and sandbox version fo this map, both of which feature breakable glass and some secrets.",
+  "ShortDescription": "TNH mansion map",
+  "IconUrl": "https://i.imgur.com/BnqIlgV.png",
+  "SourceUrl": "https://bonetome.com/h3vr/map/498/",
+  "Authors": ["another_marcel"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=ODgyYTQxNDg4YmM2ODRlNSsxODU0KzE2ODc=",
+  "Dependencies": {
+    "WurstMod": "^2.1.1"
+  },
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
+  "IsBeta": false
+}
