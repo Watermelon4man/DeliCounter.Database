@@ -1,0 +1,14 @@
+{
+  "Name": "Small Warehouse",
+  "VersionNumber": "1.0.0",
+  "Description": "A small empty warehouse, you can put up some of Andrews targets here",
+  "ShortDescription": "For shooting custom targets.",
+  "Authors": ["another_marcel"],
+  "IconUrl": "https://i.imgur.com/ghz5um5.png",
+  "SourceUrl": "https://bonetome.com/h3vr/map/478/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NjU0MGIzNzJmZjA4ZjI1MCsxODU0KzE2NDk=",
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
+  "Dependencies": {
+    "WurstMod": "^2.0.3"
+  }
+}
