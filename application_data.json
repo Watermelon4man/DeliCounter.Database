@@ -1,5 +1,5 @@
 {
-  "LatestApplicationVersion": "1.1.0",
-  "UpdateText": "- Some fixes and polish to the app",
-  "ReleaseLink": "https://github.com/Deli-Collective/Deli-Counter/releases/tag/v1.1.0"
+  "LatestApplicationVersion": "1.1.2",
+  "UpdateText": "- Small fix to a large problem. If you're seeing this message it didn't affect you.",
+  "ReleaseLink": "https://github.com/Deli-Collective/Deli-Counter/releases/tag/v1.1.2"
 }
