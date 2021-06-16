@@ -1,0 +1,15 @@
+{
+  "VersionNumber": "1.0.0",
+  "Name": "TNH Wurst City Reloaded Night",
+  "Description": "Wurst City returns and is now more ambitious than ever! Also a lot less bright!",
+  "ShortDescription": "TNH Night City Map",
+  "IconUrl": "https://i.imgur.com/hUHANH3.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/map/519/",
+  "Authors": ["another_marcel"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZDUyYTVhNWQ2ZjJmNWZlOCsxODU0KzE3NTI=",
+  "Dependencies": {
+    "WurstMod": "^2.1.1"
+  },
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
+  "IsBeta": false
+}
