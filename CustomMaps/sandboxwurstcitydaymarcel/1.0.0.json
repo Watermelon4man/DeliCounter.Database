@@ -1,0 +1,15 @@
+{
+  "VersionNumber": "1.0.0",
+  "Name": "Sandbox Wurst City Reloaded Day",
+  "Description": "The Sandbox of Wurst City Day! Should run on weaker hardware than the TNH version!",
+  "ShortDescription": "Sandbox Day City Map",
+  "IconUrl": "https://i.imgur.com/5jcmKoW.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/map/520/",
+  "Authors": ["another_marcel"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=MzkzNTY5NWZiMDI4OGVhNisxODU0KzE3NTM=",
+  "Dependencies": {
+    "WurstMod": "^2.1.1"
+  },
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
+  "IsBeta": false
+}
