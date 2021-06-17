@@ -1,0 +1,15 @@
+{
+  "VersionNumber": "1.0.0",
+  "Name": "TNH Wurst City Reloaded",
+  "Description": "Wurst City returns and is now more ambitious than ever!",
+  "ShortDescription": "TNH City Map",
+  "IconUrl": "https://i.imgur.com/4EUQomT.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/map/518/",
+  "Authors": ["another_marcel"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=MjgzZDI3YmVmZGRiN2JmZCsxODU0KzE3NTE=",
+  "Dependencies": {
+    "WurstMod": "^2.1.1"
+  },
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
+  "IsBeta": false
+}
