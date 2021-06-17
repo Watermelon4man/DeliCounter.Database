@@ -1,0 +1,15 @@
+{
+  "VersionNumber": "1.0.0",
+  "Name": "Sandbox Wurst City Reloaded Night",
+  "Description": "The Sandbox of Wurst City Night! Should run on weaker hardware than the TNH version!",
+  "ShortDescription": "Sandbox Night City Map",
+  "IconUrl": "https://i.imgur.com/UlZND7Q.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/map/521/",
+  "Authors": ["another_marcel"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=YTM2MDNjYzQyZDhiNDUwYysxODU0KzE3NTQ=",
+  "Dependencies": {
+    "WurstMod": "^2.1.1"
+  },
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods"],
+  "IsBeta": false
+}
