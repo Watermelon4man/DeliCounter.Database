@@ -1,0 +1,14 @@
+{
+  "Name": "FTW Arms Modular P226",
+  "VersionNumber": "1.0.0",
+  "Description": "Love the P226? Well now you can build your personal/favorite version of the gun! With 6 different grips, 5 slides, two frames, and 4 sights, you can build to your hearts content.",
+  "ShortDescription": "Love the P226? Well now you can build your own!",
+  "Authors": ["Andrew_FTW"],
+  "IconUrl": "https://imgur.com/M1oh05n",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/504/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MTUwZDhjZjllNjMxMTE0NSsrMTcxNA==",
+  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
+  "Dependencies": {
+    "Deli": "^0.2.5"
+  }
+}
