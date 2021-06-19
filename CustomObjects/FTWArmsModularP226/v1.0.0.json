@@ -9,6 +9,6 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=MTUwZDhjZjllNjMxMTE0NSsrMTcxNA==",
   "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
   "Dependencies": {
-    "Deli": "^0.2.5"
+    "Deli": "^0.3.1"
   }
 }
