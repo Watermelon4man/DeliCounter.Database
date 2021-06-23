@@ -1,0 +1,17 @@
+{
+  "Name": "WillFromAFar Sosig Voices",
+  "VersionNumber": "1.0.0",
+  "Description": "A voice for the sosigs using the WillFromAFar Text-To-Speech reader. Credit to Sora101Ven for the Sosig Voices template.",
+  "ShortDescription": "WillFromAFar Sosig Voices",
+  "Authors": ["Omega115"],
+  "IconUrl": "https://staticdelivery.nexusmods.com/mods/2432/images/thumbnails/83/83-1533317220-2007817590.png",
+  "PreviewImageURL": "https://staticdelivery.nexusmods.com/mods/2432/images/thumbnails/83/83-1533317220-2007817590.png",
+  "SourceUrl": "https://bonetome.com/h3vr/mods/455/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NDhmMWYxMjJhODc1YjgwZSsrMTYxNw==",
+  "InstallationSteps": ["extract $GAME_DIR/Mods"],
+  "Dependencies": {
+    "Sideloader": "~0.3.3"
+  },
+  "Tags": ["SosigVoices"],
+  "IncompatibleTags": ["SosigVoices"]
+}
